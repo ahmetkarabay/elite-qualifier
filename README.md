@@ -24,3 +24,10 @@ Click RUN to begin.
 Just click RUN, and the bot will automatically correct any mistakes it finds. 
 
 ### Any optional sections
+
+## Test Plan
+
+To test the project: 
+
+1. Run the test.
+2. Check the resssults.
