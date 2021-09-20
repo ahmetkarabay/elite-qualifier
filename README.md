@@ -30,4 +30,5 @@ Just click RUN, and the bot will automatically correct any mistakes it finds.
 To test the project: 
 
 1. Run the test.
-2. Check the resssults.
+2. Check the results.
+3. Submit test report.
